@@ -1,3 +1,3 @@
 hello world 
 
-remote change
+local update on [remote change]
